@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://squitear.github.io/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/app/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/assets/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/css/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/data/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/includes/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/item/sitemap.squitear.gz
+Sitemap: https://squitear.github.io/src/sitemap.squitear.gz
